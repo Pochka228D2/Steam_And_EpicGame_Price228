@@ -6,12 +6,12 @@ plugins {
 
 android {
     namespace = "com.example.stimchik"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.stimchik"
         minSdk = 24
-        targetSdk = 34  // Используй стабильную версию
+        targetSdk = 35  // Используй стабильную версию
         versionCode = 1
         versionName = "1.0"
 
